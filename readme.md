@@ -6,7 +6,7 @@
 
 ## Setup
 ```bash
-git clone https://github.com/anusreesubash/python-flask-learning.git
+git clone https://github.com/anoopmd/python-flask-restful-learning.git
 ```
 
 ## Install
